@@ -261,15 +261,6 @@ const Register = () => {
                 cacInputRef
               )}
 
-                {renderFileInput(
-                "Upload Recent Passsport Photo",
-                cacFile,
-                cacPreview,
-                setCacFile,
-                setCacPreview,
-                cacInputRef
-              )}
-
               {renderFileInput(
                 "Upload National ID / Voter's Card / Driver's License",
                 idFile,
