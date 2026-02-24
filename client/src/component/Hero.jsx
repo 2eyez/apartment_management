@@ -1,6 +1,6 @@
 // src/component/Hero.jsx
 import { useState, useEffect } from "react";
-import Herovid from "../assets/herovid.mp4";
+import Herovid from "../assets/Herovid.mp4";
 import apartments from "../data/apartments";
 
 const Hero = () => {
