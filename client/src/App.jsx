@@ -8,7 +8,7 @@ import PaymentPage from "./Pages/PaymentPage.jsx";
 import Register from "./Pages/Register.jsx";
 import AddProperty from "./Pages/AddProperty.jsx";
 import Footer from "./component/Footer.jsx";
-import OurPackages from "./pages/OurPackages";
+import OurPackages from "./Pages/OurPackages";
 import { packagesData } from "./data/packages";
 import BackButton from "./component/BackButton"; 
 import { Routes, Route, useLocation } from "react-router-dom";
